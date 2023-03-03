@@ -7,7 +7,7 @@ This is a tutorial that will break down a regular expression matching hex values
 ## Table of Contents
 - [Anchors](#Anchors)
 - [Quantifiers](#Quantifiers)
-- [OR Operator](#OR_Operator)
+- [OR Operator](#OR)
 - [Character Classes](#Character_Classes)
 - [Flags](#Flags)
 - [Grouping And Capturing](#G&R)
